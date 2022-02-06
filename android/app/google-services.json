@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418567059575",
+    "project_id": "kidsaloon-4b5d0",
+    "storage_bucket": "kidsaloon-4b5d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418567059575:android:4ef8e5bbc6891f3917ae72",
+        "android_client_info": {
+          "package_name": "com.example.kidsaloon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418567059575-i5t4hsotrmp03stkp0kd6gtqtscp0310.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXTQr-cyyIJhABcQ2jvbeXtlLoMZtNDKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418567059575-i5t4hsotrmp03stkp0kd6gtqtscp0310.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
